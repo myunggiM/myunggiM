@@ -3,4 +3,4 @@
 ### Hi there 👋
 
 
-![Myunggi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyunggiM&show_icons=true)
+![MG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyunggiM&show_icons=true)
