@@ -15,17 +15,19 @@
 -->
 
 </p>
-<details>
-  
-<summary><b>Github Stats</b><i></i></summary>
+
+<br>
+
+<div align="center">
 
 ![MG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyunggiM&show_icons=true)
 
-</details>
-
+</p>
+<!--
 <details>
 <summary><b>BOJ Rank</b><i></i></summary>
 
 [![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=mmj2566)](https://solved.ac/mmj2566)
 
 </details>
+-->
