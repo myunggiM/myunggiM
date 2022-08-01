@@ -21,6 +21,6 @@
 <details>
 <summary><b>BOJ Rank💻</b><i>(click to expand!)</i></summary>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmj2566)](https://solved.ac/mmj2566)
+[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=mmj2566)](https://solved.ac/mmj2566)
 
 </details>
