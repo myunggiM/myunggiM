@@ -18,6 +18,7 @@
 <details>
   
 <summary><b>Github Stats</b><i></i></summary>
+
 ![MG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyunggiM&show_icons=true)
 
 </details>
